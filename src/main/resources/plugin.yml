@@ -1,0 +1,7 @@
+name: BoostedYAMLExample
+version: '${project.version}'
+main: dev.dejvokep.boostedyaml.example.BoostedYamlExample
+api-version: 1.13
+authors: [ dejvokep ]
+description: An example plugin using BoostedYAML library.
+website: dejvokep.dev
