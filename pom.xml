@@ -63,7 +63,7 @@
                     <relocations>
                         <relocation>
                             <pattern>dev.dejvokep.boostedyaml</pattern>
-                            <shadedPattern>dev.dejvokep.exampleboostedyamlplugin.BoostedYamlExample</shadedPattern>
+                            <shadedPattern>dev.dejvokep.exampleboostedyamlplugin.libs</shadedPattern>
                         </relocation>
                     </relocations>
                 </configuration>
