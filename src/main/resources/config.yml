@@ -1,2 +1,4 @@
+# File version (do NOT edit):
 file-version: 1
+# Join message displayed when a player joins:
 join-message: "Welcome!"

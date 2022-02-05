@@ -1,7 +1,7 @@
 name: BoostedYAMLExample
 version: '${project.version}'
-main: dev.dejvokep.boostedyaml.example.BoostedYamlExample
+main: dev.dejvokep.exampleboostedyamlplugin.BoostedYamlExample
 api-version: 1.13
 authors: [ dejvokep ]
-description: An example plugin using BoostedYAML library.
-website: dejvokep.dev
+description: An example Spigot plugin using the BoostedYAML library.
+website: https://dejvokep.dev/
